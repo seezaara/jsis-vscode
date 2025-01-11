@@ -9,3 +9,6 @@ download the repository or [download in here](https://github.com/seezaara/jsis-v
  - On Windows: C:\Program Files\Microsoft VS Code\resources\app\extensions
  - On macOS: /Applications/Visual Studio Code.app/Contents/Resources/app/extensions
  - On Linux: /usr/share/code/resources/app/extensions
+
+# usage
+open html document and chose the jsis language and go nuts ;)
