@@ -1,4 +1,11 @@
 {
+    "JSIS Main Component": {
+        "prefix": "jsis",
+        "body": [
+            "<style>$2</style>\n\n<script>$3</script>\n\n<script :ready>$4</script>\n\n<template>$1</template>"
+        ],
+        "description": "If conditional example"
+    },
     "JSIS If Conditional": {
         "prefix": ":if",
         "body": [
